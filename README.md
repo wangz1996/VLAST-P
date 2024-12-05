@@ -23,7 +23,7 @@ VLAST-P-Software-Toolkit/
 │
 ├── vcalo/               Simulation framework for detectors
 └── README.md            Project overview and usage instructions
-
+```
 ---
 
 ## Contribution

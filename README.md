@@ -21,7 +21,9 @@ The repository is organized as follows:
 ```plaintext
 VLAST-P-Software-Toolkit/
 │
-├── vcalo/               Simulation framework for detectors
+├── vcalo/               Simulation and analysis framework for detectors
+├── vdisplay/            Static html file for detector and event display
+├── Tools/               Tools or scripts for tests or quick validations
 └── README.md            Project overview and usage instructions
 ```
 ---

@@ -1,0 +1,6 @@
+[submodule "vcalo"]
+	path = vcalo
+	url = git@github.com:wangz1996/vcalo.git
+[submodule "vdisplay"]
+	path = vdisplay
+	url = git@github.com:wangz1996/vdisplay.git

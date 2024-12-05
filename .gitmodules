@@ -4,3 +4,6 @@
 [submodule "vdisplay"]
 	path = vdisplay
 	url = git@github.com:wangz1996/vdisplay.git
+[submodule "Tools"]
+	path = Tools
+	url = git@github.com:wangz1996/Tools.git
